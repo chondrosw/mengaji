@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "43466013030",
+    "project_id": "mengaji-65a3d",
+    "storage_bucket": "mengaji-65a3d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:43466013030:android:b9a6cb7efbe132b0b270a7",
+        "android_client_info": {
+          "package_name": "com.mengaji.hijrah.mengaji"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "43466013030-brv9pje89h1dj2qclh6c8fg1uskethbn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mengaji.hijrah.mengaji",
+            "certificate_hash": "723b87d7718e2b9373d338ebca456196780b1427"
+          }
+        },
+        {
+          "client_id": "43466013030-1s3bsc00nanb9hb5lmoblgmg5lkbrvql.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIh4ly7s4NfiaNup7DNk26L0uqzOU5Xrk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "43466013030-1s3bsc00nanb9hb5lmoblgmg5lkbrvql.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
